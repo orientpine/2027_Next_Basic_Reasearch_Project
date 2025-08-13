@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "eb72ed7e64860af5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c16498a957ac81d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9746ac8c011320b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "아이디어/굴착기 자율화를 위한.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "굴착기 자율화를 위한"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53c33298d96b823a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a94b42f4395b8ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "621f0a1b6cf68fa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "03dc23e6d8338254",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "14b98623aed95da0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1548c1916c557601",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b98aa928bf4cd3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bb1cb29a9e6ee0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "아이디어/굴착기 자율화를 위한.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 굴착기 자율화를 위한"
+            }
+          },
+          {
+            "id": "15597740a3c9b060",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "아이디어/굴착기 자율화를 위한.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 굴착기 자율화를 위한"
+            }
+          },
+          {
+            "id": "3e73e10fb72ad03a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "398a17cfb92433f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "아이디어/굴착기 자율화를 위한.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 굴착기 자율화를 위한"
+            }
+          },
+          {
+            "id": "ab012b7430608ea9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9746ac8c011320b7",
+  "lastOpenFiles": [
+    "README.md",
+    "아이디어/굴착기 자율화를 위한.md",
+    "연구제안",
+    "편집자",
+    "아이디어"
+  ]
+}
